@@ -1,0 +1,33 @@
+.button {
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 34px;
+  height: 34px;
+  width: 34px;
+  text-align: center;
+  margin-right:  4px;
+  margin-bottom: 4px;
+}
+
+.guessed{
+  display: none;
+}
+
+.hidden{
+  display: none;
+}
+.letter {
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 34px;
+  height: 34px;
+  width: 34px;
+  text-align: center;
+  border-style: solid;
+  border-width: 1px;
+  display:inline;
+}
+
+.flex-container {
+  display: flex;
+}
